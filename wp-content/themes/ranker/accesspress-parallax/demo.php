@@ -1,9 +1,9 @@
     <section class="parallax-section clearfix service_template" id="features">
         <div class="mid-content">
-            <h2><span>Features</span></h2>
+            <h2><span>Services</span></h2>
             <div class="parallax-content">
                 <div class="page-content">
-                    <p style="text-align: center;"><?php _e('Curabitur eget interdum risus. Curabitur dictum, libero ut mattis consequat, lectus mauris congue risus, et volutpat nulla eros vel arcu.','accesspress-parallax'); ?></p>
+                    <p style="text-align: center;"><?php _e('Covering the full spectrum of web centric interactions. Rooted in individual business priorities.','accesspress-parallax'); ?></p>
                 </div>
             </div> 
             <div class="service-listing clearfix">
@@ -12,8 +12,8 @@
                         <img src="<?php echo get_template_directory_uri(); ?>/images/demo/icon1.png" alt="EASY THEME OPTION PANEL">
                     </div>
                     <div class="service-detail">
-                        <h3>EASY THEME OPTION PANEL</h3>
-                        <div class="service-content"><p><?php _e( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis metus vitae ligula elementum ut luctus lorem facilisis.', 'accesspress-parallax' ); ?></p>
+                        <h3>E-COMMERCE APPLICATIONSL</h3>
+                        <div class="service-content"><p><?php _e( 'E-commerce sites can vary dramatically in complexity depending on the extent of functionality, automation, and analytical capability required by the web-marketer.', 'accesspress-parallax' ); ?></p>
                         </div>
                     </div>
                 </div>
@@ -24,8 +24,8 @@
                         ?>/images/demo/icon2.png" alt="EASY CUSTOMIZABLE">
                     </div>
                     <div class="service-detail">
-                        <h3>EASY CUSTOMIZABLE</h3>
-                        <div class="service-content"><p><?php _e( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis metus vitae ligula elementum ut luctus lorem facilisis.', 'accesspress-parallax' ); ?></p>
+                        <h3>WEBSITE DESIGN AND DEVELOPMENT</h3>
+                        <div class="service-content"><p><?php _e( 'Since we incorporated in 1996, we have delivered for a diverse range of clients - from start-ups with dreams to the hard-nosed Fortune 10 corporations in all parts of the world.', 'accesspress-parallax' ); ?></p>
                         </div>
                     </div>
                 </div>
@@ -36,8 +36,8 @@
                         ?>/images/demo/icon3.png" alt="CLEAN CODING">
                     </div>
                     <div class="service-detail">
-                        <h3>CLEAN CODING</h3>
-                        <div class="service-content"><p><?php _e( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis metus vitae ligula elementum ut luctus lorem facilisis.', 'accesspress-parallax' ); ?></p>
+                        <h3>ONLINE WORKFLOW APPLICATIONS</h3>
+                        <div class="service-content"><p><?php _e( 'Many of our clients operate from multiple geographical locations and interact with partners and vendors around the globe. Their people work in teams that are widely dispersed. For teamwork to succeed, accurate and timely information flow across the entire system is a basic necessity.', 'accesspress-parallax' ); ?></p>
                         </div>
                     </div>
                 </div>
@@ -48,12 +48,12 @@
                         ?>/images/demo/icon4.png" alt="HTML5 &#038; CSS3">
                     </div>
                     <div class="service-detail">
-                        <h3>HTML5 &#038; CSS3</h3>
-                        <div class="service-content"><p><?php _e( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis metus vitae ligula elementum ut luctus lorem facilisis.', 'accesspress-parallax' ); ?></p>
+                        <h3>ONLINE MARKETING</h3>
+                        <div class="service-content"><p><?php _e( 'Our online marketing services are not just about converting offline promotions to the online format. Our focus is on developing creatives and campaigns that strategically take advantage of the online medium and cut through the clutter, to achieve high impact levels for the target audience. ', 'accesspress-parallax' ); ?></p>
                         </div>
                     </div>
                 </div>
-                <div class="clearfix service-list odd wow fadeInLeft" data-wow-delay="1.25s">
+                <!-- <div class="clearfix service-list odd wow fadeInLeft" data-wow-delay="1.25s">
                     <div class="service-image">
                         <img src="<?php
                         echo get_template_directory_uri();
@@ -76,7 +76,7 @@
                         <div class="service-content"><p><?php _e( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis metus vitae ligula elementum ut luctus lorem facilisis.', 'accesspress-parallax' ); ?></p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div><!-- #primary -->
         </div>
     </section>
@@ -89,32 +89,13 @@
                     <p style="text-align: center;"><?php _e( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis metus vitae ligula elementum ut luctus lorem facilisis.', 'accesspress-parallax' ); ?></p>
                 </div>
             </div> 
-            <div class="portfolio-listing clearfix">
-                <a href="#" class="portfolio-list wow fadeInUp" data-wow-delay="0.25s">
-                    <div class="portfolio-wrap">
-                        <div class="portfolio-overlay"><span>+</span></div>
-                        <div class="portfolio-image">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/demo/portfolio1.jpg">
-                        </div>
-                        <h3><?php _e( 'Product 11', 'accesspress-parallax' ); ?></h3>
-                    </div>
-                </a>
-                <a href="#" class="portfolio-list wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="portfolio-wrap">
-                        <div class="portfolio-overlay"><span>+</span></div>
-                        <div class="portfolio-image">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/demo/portfolio2.jpg">
-                        </div>
-                        <h3><?php _e( 'Product 10', 'accesspress-parallax' ); ?></h3>
-                    </div>
-                </a>
                 <a href="#" class="portfolio-list wow fadeInUp" data-wow-delay="0.75s">
                     <div class="portfolio-wrap">
                         <div class="portfolio-overlay"><span>+</span></div>
                         <div class="portfolio-image">
                             <img src="<?php  echo get_template_directory_uri(); ?>/images/demo/portfolio3.jpg">
                         </div>
-                        <h3><?php _e( 'Product 9', 'accesspress-parallax' ); ?></h3>
+                        <h3><?php _e( 'Vintage Cars', 'accesspress-parallax' ); ?></h3>
                     </div>
                 </a>
                 <a href="#" class="portfolio-list wow fadeInUp" data-wow-delay="1s">
@@ -123,16 +104,7 @@
                         <div class="portfolio-image">
                             <img src="<?php echo get_template_directory_uri(); ?>/images/demo/portfolio4.jpg">
                         </div>
-                        <h3><?php _e( 'Product 8', 'accesspress-parallax' ); ?></h3>
-                    </div>
-                </a>
-                <a href="#" class="portfolio-list wow fadeInUp" data-wow-delay="1.25s">
-                    <div class="portfolio-wrap">
-                        <div class="portfolio-overlay"><span>+</span></div>
-                        <div class="portfolio-image">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/demo/portfolio5.jpg">
-                        </div>
-                        <h3><?php _e( 'Product 7', 'accesspress-parallax' ); ?></h3>
+                        <h3><?php _e( 'GM Pens', 'accesspress-parallax' ); ?></h3>
                     </div>
                 </a>
                 <a href="#" class="portfolio-list wow fadeInUp" data-wow-delay="1.5s">
@@ -141,7 +113,7 @@
                         <div class="portfolio-image">
                             <img src="<?php echo get_template_directory_uri(); ?>/images/demo/portfolio6.jpg">
                         </div>
-                        <h3><?php _e( 'Product 6', 'accesspress-parallax' ); ?></h3>
+                        <h3><?php _e( 'I store', 'accesspress-parallax' ); ?></h3>
                     </div>
                 </a>
                 <a href="#" class="portfolio-list wow fadeInUp" data-wow-delay="1.75s">
@@ -150,133 +122,10 @@
                         <div class="portfolio-image">
                             <img src="<?php echo get_template_directory_uri(); ?>/images/demo/portfolio7.jpg">
                         </div>
-                        <h3><?php _e( 'Product 5', 'accesspress-parallax' ); ?></h3>
+                        <h3><?php _e( 'Nescafe', 'accesspress-parallax' ); ?></h3>
                     </div>
                 </a>
-                <a href="#" class="portfolio-list wow fadeInUp" data-wow-delay="2s">
-                    <div class="portfolio-wrap">
-                        <div class="portfolio-overlay"><span>+</span></div>
-                        <div class="portfolio-image">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/demo/portfolio8.jpg">
-                        </div>
-                        <h3><?php _e( 'Product 4', 'accesspress-parallax' ); ?></h3>
-                    </div>
-                </a>
-            </div><!-- #primary -->
-        </div>
-    </section>
-    <section class="parallax-section clearfix team_template" id="team">
-        <div class="mid-content">
-            <h2><span>Team</span></h2>
-            <div class="parallax-content">
-            </div> 
-            <div class="team-listing clearfix">
-                <div class="team-tab">
-                    <div class="team-slider">
-                        <div class="team-image wow fadeInLeft" data-wow-delay="0.25s">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/demo/team1.jpg" alt="Russel Clinton">
-                        </div>
-                        <div class="team-image wow fadeInLeft" data-wow-delay="0.5s">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/demo/team2.jpg" alt="Bibo Aurther">
-                        </div>
-                        <div class="team-image wow fadeInLeft" data-wow-delay="0.75s">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/demo/team3.jpg" alt="Rusel Misil">
-                        </div>
-                        <div class="team-image wow fadeInLeft" data-wow-delay="1s">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/demo/team4.jpg" alt="Linda Harley">
-                        </div>
-                        <div class="team-image wow fadeInLeft" data-wow-delay="1.25s">
-                            <img src="<?php echo get_template_directory_uri();?>/images/demo/team5.jpg" alt="John Doe">
-                        </div>
-                        <div class="team-image wow fadeInLeft" data-wow-delay="1.5s">
-                            <img src="<?php echo get_template_directory_uri();?>/images/demo/team6.jpg" alt="Jakson Biber">
-                        </div>
-                        <div class="team-image wow fadeInLeft" data-wow-delay="1.75s">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/demo/team7.jpg" alt="Jack Peterson">
-                        </div>
-                    </div>
-                </div>
-                <div class="team-content wow fadeIn" data-wow-delay="1.5s">
-                    <div class="clearfix team-list team-277">
-                        <div class="team-big-image">
-                            <img src="<?php
-                            echo get_template_directory_uri();
-                            ?>/images/demo/team1.jpg" alt="Russel Clinton">
-                        </div>
-                        <div class="team-detail">
-                            <h3><?php _e( 'Russel Clinton', 'accesspress-parallax' ); ?></h3>
-                            <h4><?php _e( 'Interior Head', 'accesspress-parallax' ); ?></h4>
-                            <p><?php _e( 'Duis luctus nisl vel rhoncus rhoncus. Nam vehicula maximus sagittis. Proin quis lobortis nisi. Etiam luctus auctor urna, a luctus metus blandit in. Nam quis facilisis nunc, nec scelerisque ligula. Aenean quis lacus bibendum, lobortis dolor sed, facilisis ipsum. Nunc feugiat augue ac ligula blandit, id maximus purus molestie.<br /><br />
-                                Duis luctus nisl vel rhoncus rhoncus. Nam vehicula maximus sagittis. Proin quis lobortis nisi. Etiam luctus auctor urna, a luctus metus blandit in. Nam quis facilisis nunc, nec scelerisque ligula. Aenean quis lacus bibendum, lobortis dolor sed, facilisis ipsum. Nunc feugiat augue ac ligula blandit, id maximus purus molestie.', 'accesspress-parallax' ); ?></p>
-                        </div>
-                    </div>
-                    <div class="clearfix team-list team-236">
-                        <div class="team-big-image">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/demo/team2.jpg" alt="Bibo Aurther">
-                        </div>
-                        <div class="team-detail">
-                            <h3><?php _e( 'Bibo Aurther', 'accesspress-parallax' ); ?></h3>
-                            <h4><?php _e( 'CEO', 'accesspress-parallax' ); ?></h4>
-                            <p><?php _e( 'Proin libero odio, ultrices et tincidunt vitae, consequat et sapien. Duis luctus nisl vel rhoncus rhoncus. Nam vehicula maximus sagittis. Proin quis lobortis nisi. Etiam luctus auctor urna, a luctus metus blandit in. Nam quis facilisis nunc, nec scelerisque ligula. Aenean quis lacus bibendum, lobortis dolor sed, facilisis ipsum. Nunc feugiat augue ac ligula blandit, id maximus purus molestie.<br /><br />
-                                Proin libero odio, ultrices et tincidunt vitae, consequat et sapien. Duis luctus nisl vel rhoncus rhoncus. Nam vehicula maximus sagittis. Proin quis lobortis nisi. Etiam luctus auctor urna, a luctus metus blandit in. Nam quis facilisis nunc, nec scelerisque ligula. Aenean quis lacus bibendum, lobortis dolor sed, facilisis ipsum. Nunc feugiat augue ac ligula blandit, id maximus purus molestie.', 'accesspress-parallax' ); ?></p>
-                        </div>
-                    </div>
-                    <div class="clearfix team-list team-233">
-                        <div class="team-big-image">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/demo/team3.jpg" alt="Rusel Misil">
-                        </div>
-                        <div class="team-detail">
-                            <h3><?php _e( 'Rusel Misil', 'accesspress-parallax' ); ?></h3>
-                            <h4><?php _e( 'Technician', 'accesspress-parallax' ); ?></h4>
-                            <p><?php _e( 'Etiam vestibulum pellentesque nisi, ac scelerisque metus aliquam non. Proin tincidunt tortor auctor, accumsan arcu id, congue felis. Curabitur vitae lorem at purus imperdiet commodo quis non sem. Donec magna odio, commodo eget rhoncus quis, facilisis et dolor.<br /><br />
-                                Proin libero odio, ultrices et tincidunt vitae, consequat et sapien. Duis luctus nisl vel rhoncus rhoncus. Nam vehicula maximus sagittis. Proin quis lobortis nisi. Etiam luctus auctor urna, a luctus metus blandit in. Nam quis facilisis nunc, nec scelerisque ligula. Aenean quis lacus bibendum, lobortis dolor sed, facilisis ipsum. Nunc feugiat augue ac ligula blandit, id maximus purus molestie.', 'accesspress-parallax' ); ?></p>
-                        </div>
-                    </div>
-                    <div class="clearfix team-list team-118">
-                        <div class="team-big-image">
-                            <img src="<?php echo get_template_directory_uri();?>/images/demo/team4.jpg" alt="Linda Harley">
-                        </div>
-                        <div class="team-detail">
-                            <h3><?php _e( 'Linda Harley', 'accesspress-parallax' ); ?></h3>
-                            <h4><?php _e( 'Staff', 'accesspress-parallax' ); ?></h4>
-                            <p><?php _e( 'Nulla facilisis sapien dui, vel faucibus risus consequat sit amet. Phasellus vestibulum vestibulum mi quis posuere. Aenean pretium purus ut purus vehicula dictum. Morbi elementum dignissim aliquet. Nullam et purus et mi finibus laoreet. Aliquam posuere erat eu lobortis vulputate. Phasellus pulvinar fringilla turpis in congue. Integer et felis fringilla, elementum lacus eu, tincidunt purus.<br/><br />
-                            Nulla facilisis sapien dui, vel faucibus risus consequat sit amet. Phasellus vestibulum vestibulum mi quis posuere. Aenean pretium purus ut purus vehicula dictum. Morbi elementum dignissim aliquet. Nullam et purus et mi finibus laoreet. Aliquam posuere erat eu lobortis vulputate. Phasellus pulvinar fringilla turpis in congue. Integer et felis fringilla, elementum lacus eu, tincidunt purus.', 'accesspress-parallax' ); ?></p>
-                        </div>
-                    </div>
-                    <div class="clearfix team-list team-116">
-                        <div class="team-big-image">
-                            <img src="<?php echo get_template_directory_uri();?>/images/demo/team5.jpg" alt="John Doe">
-                        </div>
-                        <div class="team-detail">
-                            <h3><?php _e( 'John Doe', 'accesspress-parallax' ); ?></h3>
-                            <h4><?php _e( 'Staff', 'accesspress-parallax' ); ?></h4>
-                            <p><?php _e( 'Donec ut neque placerat, euismod enim et, sodales magna. Sed sit amet nunc ullamcorper, semper nunc mattis, scelerisque urna. Donec dictum mattis malesuada. Suspendisse vestibulum enim eu nisi auctor, a mollis odio posuere. Ut scelerisque luctus arcu id tempus.<br/><br />
-                            Nulla facilisis sapien dui, vel faucibus risus consequat sit amet. Phasellus vestibulum vestibulum mi quis posuere. Aenean pretium purus ut purus vehicula dictum. Morbi elementum dignissim aliquet. Nullam et purus et mi finibus laoreet. Aliquam posuere erat eu lobortis vulputate. Phasellus pulvinar fringilla turpis in congue. Integer et felis fringilla, elementum lacus eu, tincidunt purus.', 'accesspress-parallax' ); ?></p>
-                        </div>
-                    </div>
-                    <div class="clearfix team-list team-114">
-                        <div class="team-big-image">
-                            <img src="<?php echo get_template_directory_uri();?>/images/demo/team6.jpg" alt="Jakson Biber">
-                        </div>
-                        <div class="team-detail">
-                            <h3><?php _e( 'Jakson Biber', 'accesspress-parallax' ); ?></h3>
-                            <h4><?php _e( 'Marketing Executive', 'accesspress-parallax' ); ?></h4>
-                            <p><?php _e( 'Fusce imperdiet enim eget neque auctor, venenatis feugiat neque dapibus. Nulla consequat, nunc sed vestibulum semper, nibh velit pellentesque lectus, ac lobortis elit massa hendrerit lacus. Nulla facilisis sapien dui, vel faucibus risus consequat sit amet. Phasellus vestibulum vestibulum mi quis posuere.<br/><br />
-                            Fusce imperdiet enim eget neque auctor, venenatis feugiat neque dapibus. Nulla consequat, nunc sed vestibulum semper, nibh velit pellentesque lectus, ac lobortis elit massa hendrerit lacus. Nulla facilisis sapien dui, vel faucibus risus consequat sit amet. Phasellus vestibulum vestibulum mi quis posuere.', 'accesspress-parallax' ); ?></p>
-                        </div>
-                    </div>
-                    <div class="clearfix team-list team-111">
-                        <div class="team-big-image">
-                            <img src="<?php echo get_template_directory_uri();?>/images/demo/team7.jpg" alt="Jack Peterson">
-                        </div>
-                        <div class="team-detail">
-                            <h3><?php _e( 'Jack Peterson', 'accesspress-parallax' ); ?></h3>
-                            <h4><?php _e( 'Sales Executive', 'accesspress-parallax' ); ?></h4>
-                            <p><?php _e( 'Donec ut neque placerat, euismod enim et, sodales magna. Sed sit amet nunc ullamcorper, semper nunc mattis, scelerisque urna. Donec dictum mattis malesuada. Suspendisse vestibulum enim eu nisi auctor, a mollis odio posuere. Ut scelerisque luctus arcu id tempus.<br/><br />
-                            Donec ut neque placerat, euismod enim et, sodales magna. Sed sit amet nunc ullamcorper, semper nunc mattis, scelerisque urna. Donec dictum mattis malesuada. Suspendisse vestibulum enim eu nisi auctor, a mollis odio posuere. Ut scelerisque luctus arcu id tempus.', 'accesspress-parallax' ); ?></p>
-                        </div>
-                    </div>
-                </div>
+                
             </div><!-- #primary -->
         </div>
     </section>
@@ -322,7 +171,7 @@
             </div><!-- #primary -->
         </div>
     </section>
-    <section class="parallax-section clearfix blog_template" id="blog">
+    <!-- <section class="parallax-section clearfix blog_template" id="blog">
         <div class="overlay"></div>
         <div class="mid-content">
             <h2><span>Blog</span></h2>
@@ -370,7 +219,7 @@
                 <a class="btn" href="#"><?php _e( 'Read All', 'accesspress-parallax' ); ?></a>
             </div>
         </div>
-    </section>
+    </section> -->
     <section class="parallax-section clearfix action_template" id="for-news-and-updates-subscribe-us">
         <div class="overlay"></div>
         <div class="mid-content">
